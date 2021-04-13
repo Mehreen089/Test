@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.HomeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-12T16:44:02" hostname="LHR-SDET-MEHREN" time="2.643">
+  <properties/>
+  <testcase name="testHomePage" classname="tests.HomeTest" time="2.643"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

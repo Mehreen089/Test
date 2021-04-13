@@ -1,0 +1,6 @@
+pages/BasePage.java
+ pages.BasePage
+pages/HomePage.java
+ pages.HomePage
+cofigs/DriverManager.java
+ cofigs.DriverManager
